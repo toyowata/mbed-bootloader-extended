@@ -96,6 +96,8 @@
             "nvstore.area_1_size"              : "(32*1024)",
             "nvstore.area_2_address"           : "(MBED_CONF_APP_FLASH_START_ADDRESS + (96*1024))",
             "nvstore.area_2_size"              : "(32*1024)",
+            "update-client.storage-address"    : "(1024*1024*2)",
+            "update-client.storage-size"       : "(1024*1024*6)",
             "update-client.application-details": "(MBED_CONF_APP_FLASH_START_ADDRESS + 128*1024)",
             "application-start-address"        : "(MBED_CONF_APP_FLASH_START_ADDRESS + 129*1024)",
             "max-application-size"             : "DEFAULT_MAX_APPLICATION_SIZE",
