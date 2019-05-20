@@ -3,14 +3,6 @@ mbed-os/rtos/*
 mbed-os/events/*
 mbed-os/features/FEATURE_LWIP/*
 mbed-os/features/FEATURE_BLE/*
-mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/*
-mbed-os/features/FEATURE_COMMON_PAL/mbed-coap/*
-mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/*
-mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/*
-mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/source/*
-mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/test/*
-mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/*
-mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/test/*
 mbed-os/features/FEATURE_UVISOR/*
 mbed-os/features/unsupported/*
 mbed-os/features/cellular/*
@@ -37,6 +29,7 @@ mbed-os/features/frameworks/mbed-client-randlib/*
 mbed-os/features/frameworks/mbed-coap/*
 mbed-os/features/frameworks/mbed-trace/*
 mbed-os/features/frameworks/nanostack-libservice/*
+mbed-os/usb/*
 mbed-cloud-client/update-client-hub/source/*
 mbed-cloud-client/update-client-hub/modules/atomic-queue/*
 mbed-cloud-client/update-client-hub/modules/control-center/*
